@@ -308,8 +308,8 @@ footer h1 span{
     #menubar{
         display: block;
         position: absolute;
-        top: 47%;
-        right: 0%;
+        top: 31%;
+        left: 0%;
         transform: translate(0%,-50%);
         z-index: 99;
         background-color: var(--primary);
